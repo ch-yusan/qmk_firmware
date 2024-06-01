@@ -3,6 +3,9 @@
 
 #pragma once
 
+#define WS2812_DI_PIN D3
+#define RGBLIGHT_LED_COUNT 6
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
